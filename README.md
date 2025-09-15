@@ -1,11 +1,12 @@
 <!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#f97316;">Ananya Mohanty</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🌐 Tech Explorer</h3>
+
 
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&lines=🚀+Full-Stack+Developer;🤖+AI+%26+Chatbot+Creator;⚡+4★+Coder+on+HackerRank;🌍+Built+Apps+Impacting+1000%2B+Users;🎯+Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=480&lines=🚀+Full-Stack+Developer;🤖+AI+%26+Chatbot+Builder;⚡+4★+Coder+on+HackerRank;🌍+Apps+Used+by+1000%2B+Users;🎯+Lifelong+Learner" alt="Typing SVG" />
+
 
 </p>
 
