@@ -1,9 +1,8 @@
 <!-- HEADER -->
-<h1 align="center" style="font-weight:800;">
-  <span style="color:#f97316;">⚡ Ananya Mohanty ⚡</span><br/>
-  <span style="font-size:20px; color:#6b7280;">Full-Stack Developer | AI Enthusiast</span>
+<h1 align="center">
+  Hey there <span style="font-size:35px;">👋</span>, I'm 
+  <span style="color:#f97316; font-weight:700;">Ananya Mohanty</span>
 </h1>
-
 
 
 
