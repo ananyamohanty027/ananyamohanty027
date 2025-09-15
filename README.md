@@ -2,9 +2,12 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#f97316;">Ananya Mohanty</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast | 🌐 Tech Explorer</h3>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Engineer+in+the+Making;⚡+Full+Stack+Developer;🤖+AI+%26+Chatbot+Creator;🌍+Web+Apps+with+Impact;🚀+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Engineer+in+the+Making;⚡+Full-Stack+Developer;🤖+AI+%26+Chatbot+Creator;🌍+Web+Apps+with+Impact;🚀+Lifelong+Learner" alt="Typing Animation" />
 </p>
+
 
 ---
 
