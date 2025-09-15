@@ -1,7 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">
-  Hey there <span style="font-size:35px;">👋</span>, I'm 
-  <span style="color:#f97316; font-weight:700;">Ananya Mohanty</span>
+  Hey there 👋, I'm 
+  <span style="background: linear-gradient(90deg,#f97316,#ec4899,#6366f1); -webkit-background-clip: text; color: transparent; font-weight: 800;">
+    Ananya Mohanty
+  </span>
 </h1>
 
 
