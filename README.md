@@ -69,19 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyamohanty027&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ananyamohanty027&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyamohanty027&theme=radical" alt="Contribution Graph" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -97,9 +84,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ananyamohanty027/count.svg" alt="Profile Visitors" />
-</p>
 
 <h3 align="center">⚡ Building the future, one project at a time ⚡</h3>
