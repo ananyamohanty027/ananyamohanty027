@@ -1,6 +1,14 @@
+<h1 align="center">Hi 👋, I'm Ananya Mohanty</h1>
+<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast 🚀</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi+there+👋;Hello+World+🌍;Welcome+to+my+GitHub!;Building+cool+projects+🚀;Future+Software+Engineer+💻" alt="Typing animation" />
+  <img src="https://img.shields.io/badge/Code-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
+
 
 
 # 💫 About Me:
