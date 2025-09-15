@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final-year **Computer Science & Engineering Student** at LPU  
+🎓 **Computer Science & Engineering Graduate** from LPU   
 💻 Skilled in **Full-Stack Development, APIs, and AI projects**  
 🌱 Exploring **scalable apps, automation, and modern tech stacks**  
 🎯 Long-term Vision: Building tech that makes life **simpler & smarter**
